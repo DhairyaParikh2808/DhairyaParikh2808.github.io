@@ -55,4 +55,4 @@ The interactivity for this chart is built into the tooltips, which provide addit
 ---
 [The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
 
-[The Analysis]()
+[The Analysis](https://github.com/DhairyaParikh2808/DhairyaParikh2808.github.io/blob/main/hw6.ipynb)
