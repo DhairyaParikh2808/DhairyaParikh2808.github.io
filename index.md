@@ -53,6 +53,7 @@ I filtered the dataset to include only the statuses that were of interest (`ACTI
 The interactivity for this chart is built into the tooltips, which provide additional details about each segment when hovered over. This allows users to access information without cluttering the chart. Though this chart does not have other interactive elements, the tooltip provides a clear and direct way to explore the data.
 
 ---
+[The Analysis](https://github.com/DnbhairyaParikh2808/DhairyaParikh2808.github.io/blob/main/hw6.ipy)
+
 [The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
 
-[The Analysis](https://github.com/DhairyaParikh2808/DhairyaParikh2808.github.io/blob/main/hw6.ipynb)
